@@ -1,0 +1,12 @@
+{
+  "domain": "citywaste_korea",
+  "name": "CityWaste Korea",
+  "version": "0.2.0-ui",
+  "documentation": "https://github.com/staiji/citywaste_korea",
+  "issue_tracker": "https://github.com/staiji/citywaste_korea/issues",
+  "dependencies": [],
+  "codeowners": ["@staiji"],
+  "requirements": [],
+  "config_flow": true,
+  "iot_class": "cloud_polling"
+}

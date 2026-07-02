@@ -1,0 +1,43 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "CityWaste Korea 추가",
+        "description": "citywaste.or.kr 음식물 쓰레기 배출량 조회 정보를 입력하세요.",
+        "data": {
+          "name": "이름",
+          "tagprintcd": "RFID 태그 인쇄번호",
+          "aptdong": "동",
+          "apthono": "호",
+          "monitored_conditions": "생성할 센서"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "CityWaste 서버에 연결하거나 입력값을 검증하지 못했습니다.",
+      "unknown": "알 수 없는 오류가 발생했습니다. 로그를 확인하세요."
+    },
+    "abort": {
+      "already_configured": "이미 추가된 CityWaste 항목입니다."
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "title": "CityWaste Korea 옵션",
+        "description": "조회 정보 또는 생성할 센서를 수정합니다.",
+        "data": {
+          "name": "이름",
+          "tagprintcd": "RFID 태그 인쇄번호",
+          "aptdong": "동",
+          "apthono": "호",
+          "monitored_conditions": "생성할 센서"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "CityWaste 서버에 연결하거나 입력값을 검증하지 못했습니다.",
+      "unknown": "알 수 없는 오류가 발생했습니다. 로그를 확인하세요."
+    }
+  }
+}
