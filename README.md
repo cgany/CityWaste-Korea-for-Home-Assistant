@@ -1,18 +1,21 @@
-# 🏠 Home Assistant CityWaste Korea
+# CityWaste Korea for Home Assistant
 
+Home Assistant custom integration for Korean apartment waste collection schedules.
 
-아파트 음식물쓰레기 
+## Features
 
-[ HACS ]
-[ Latest Release ]
-[ License ]
+- UI configuration (Config Flow)
+- No YAML configuration required
+- Apartment waste collection schedule
 
-설치
+## Installation
 
-설정
+### HACS (Coming Soon)
 
-스크린샷
+### Manual
 
-지원 아파트
+Copy the `custom_components/citywaste_korea` folder into your Home Assistant configuration directory.
 
-변경 이력
+## License
+
+MIT
