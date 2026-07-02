@@ -1,7 +1,7 @@
 # 🏠 Home Assistant CityWaste Korea
 
 
-한국 아파트 분리수거 일정 통합
+아파트 음식물쓰레기 
 
 [ HACS ]
 [ Latest Release ]
