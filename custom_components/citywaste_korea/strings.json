@@ -2,7 +2,7 @@
   "config": {
     "step": {
       "user": {
-        "title": "CityWaste Korea 추가",
+        "title": "CityWaste Korea (HACS) 추가",
         "description": "citywaste.or.kr 음식물 쓰레기 배출량 조회 정보를 입력하세요.",
         "data": {
           "name": "이름",
@@ -24,7 +24,7 @@
   "options": {
     "step": {
       "init": {
-        "title": "CityWaste Korea 옵션",
+        "title": "CityWaste Korea (HACS) 옵션",
         "description": "조회 정보 또는 생성할 센서를 수정합니다.",
         "data": {
           "name": "이름",
