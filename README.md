@@ -1,4 +1,4 @@
-# CityWaste Korea for Home Assistant
+# CityWaste Korea (HACS)
 
 Home Assistant custom integration for Korean apartment waste collection schedules.
 
